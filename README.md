@@ -1,5 +1,7 @@
 ## Deploy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/naokie/botkit-on-bluemix.svg)](https://greenkeeper.io/)
+
 Sign up IBM Bluemix
 
 https://console.ng.bluemix.net/registration/
